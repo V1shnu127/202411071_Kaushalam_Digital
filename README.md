@@ -40,7 +40,7 @@ frontend <br>
 └── lib <br>
 
 #### Responsibilities ####
-• Models: Database schema and queries 
-• Controllers: Application and business logic 
-• Routes: HTTP endpoints and middleware 
+• Models: Database schema and queries <br>
+• Controllers: Application and business logic <br> 
+• Routes: HTTP endpoints and middleware <br>
 • Views: Next.js pages and components 
