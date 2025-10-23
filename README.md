@@ -22,22 +22,22 @@ Campus Placement Company Test conducted between 22 Oct 2025 to 23 Oct 2025
 • Tailwind CSS or CSS Modules for styling 
 
 #### Backend Folder Structure  ####
-backend
-├── models
-├── controllers
-├── routes
-├── config
-├── tests
-└── server.js
+backend <br>
+├── models <br>
+├── controllers <br>
+├── routes <br>
+├── config <br>
+├── tests <br>
+└── server.js <br>
 
 #### Frontend Folder Structure ####
-frontend
-├── app
-│   ├── products
-│   ├── cart
-│   └── orders
-├── components
-└── lib
+frontend <br>
+├── app <br>
+│   ├── products <br>
+│   ├── cart <br>
+│   └── orders <br>
+├── components <br>
+└── lib <br>
 
 #### Responsibilities ####
 • Models: Database schema and queries 
