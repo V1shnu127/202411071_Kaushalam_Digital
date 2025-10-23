@@ -8,7 +8,6 @@ Campus Placement Company Test conducted between 22 Oct 2025 to 23 Oct 2025
 - Order Successfully Placed
 - Out-of-stock item now back in stock
 - Successful shipment & delivery
----
 
 ### Technologies Used
 #### Backend ####
@@ -23,19 +22,25 @@ Campus Placement Company Test conducted between 22 Oct 2025 to 23 Oct 2025
 • Tailwind CSS or CSS Modules for styling 
 
 #### Backend Folder Structure  ####
-/backend <br>
-  /models <br>
-  /controllers <br> 
-  /routes <br>
-  /config <br>
-  /tests <br>
-  server.js 
+backend
+├── models
+├── controllers
+├── routes
+├── config
+├── tests
+└── server.js
 
 #### Frontend Folder Structure ####
-/frontend <br>
-  /app <br>
-    /products <br>
-    /cart <br>
-    /orders <br>
-  /components <br>
-  /lib
+frontend
+├── app
+│   ├── products
+│   ├── cart
+│   └── orders
+├── components
+└── lib
+
+#### Responsibilities ####
+• Models: Database schema and queries 
+• Controllers: Application and business logic 
+• Routes: HTTP endpoints and middleware 
+• Views: Next.js pages and components 
