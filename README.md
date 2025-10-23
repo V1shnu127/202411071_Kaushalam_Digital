@@ -1,7 +1,7 @@
 # 202411071_Kaushalam_Digital
 Campus Placement Company Test conducted between 22 Oct 2025 to 23 Oct 2025
 
-# Online Shopping Cart (E-Commerce Website): Electronic products to be sold Online
+## Online Shopping Cart (E-Commerce Website): Electronic products to be sold Online
 
 ### Users receive emails for:
 - New User Registration
@@ -11,31 +11,31 @@ Campus Placement Company Test conducted between 22 Oct 2025 to 23 Oct 2025
 ---
 
 ### Technologies Used
-# Backend #
+#### Backend ####
 • Node.js + Express.js (MVC structure) 
 • SQL Database (MySQL or PostgreSQL) 
 • MongoDB (for product catalog) 
 • Prisma ORM or native database drivers 
 • JWT authentication with bcrypt password hashing 
 
-# Frontend # 
+#### Frontend ####
 • Next.js 14+ (App Router, TypeScript) 
 • Tailwind CSS or CSS Modules for styling 
 
-# Backend Folder Structure  #
-/backend 
-  /models 
-  /controllers 
-  /routes 
-  /config 
-  /tests 
+#### Backend Folder Structure  ####
+/backend <br>
+  /models <br>
+  /controllers <br> 
+  /routes <br>
+  /config <br>
+  /tests <br>
   server.js 
 
-# Frontend Folder Structure #
-/frontend 
-  /app 
-    /products 
-    /cart 
-    /orders 
-  /components 
+#### Frontend Folder Structure ####
+/frontend <br>
+  /app <br>
+    /products <br>
+    /cart <br>
+    /orders <br>
+  /components <br>
   /lib
